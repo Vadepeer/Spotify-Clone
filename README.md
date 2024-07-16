@@ -14,3 +14,6 @@ The Spotify Music App Clone mimics the core interface of the Spotify app, includ
 - **Player Controls**: Basic player controls are included at the bottom of the screen, mimicking the Spotify player design.
 - **Styled Components**: CSS is used extensively to style components to closely resemble Spotify's modern aesthetic.
 - **Hover Effects**: Interactive hover effects enhance the user experience by providing visual feedback on clickable elements.
+
+**Demo**
+**URL** : https://vadepeer.github.io/Spotify-Clone/
